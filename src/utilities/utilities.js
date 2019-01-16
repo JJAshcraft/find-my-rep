@@ -10,7 +10,6 @@ export function getUSStates() {
     "CT",
     "DE",
     "DC",
-    "FM",
     "FL",
     "GA",
     "GU",
@@ -62,3 +61,5 @@ export function getUSStates() {
   ];
   return states;
 }
+
+export default getUSStates;
