@@ -88,10 +88,9 @@ const RepInfoBox = props => {
           <StyledGrid item xs={12}>
             <StyledInput
               readOnly
-              value={props.memberInfo.phone}
-              placeholder="Phone"
+              value={props.memberInfo.office}
+              placeholder="Office"
             />
-            <StyledInput value={props.memberInfo.office} placeholder="Office" />
           </StyledGrid>
         </Grid>
       </StyledGrid>
