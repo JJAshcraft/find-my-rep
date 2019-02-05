@@ -4,6 +4,3 @@
 
 This will load on `yarn start` to http://localhost:3000/.
 
-## The server is located in the `server` directory.
-
-This will load on `yarn start` to http://127.0.0.1:3300/.
